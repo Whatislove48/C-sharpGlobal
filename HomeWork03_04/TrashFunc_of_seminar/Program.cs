@@ -271,7 +271,6 @@ Console.WriteLine(PrintArray(InversionArray(Myarray)) + " ");
 
 */
 
-*/
 
 
 // Задать массив из 8 элементов 
