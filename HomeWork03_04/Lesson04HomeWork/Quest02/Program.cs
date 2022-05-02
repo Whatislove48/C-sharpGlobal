@@ -17,7 +17,7 @@ int SumOfCount(int numeric){
         numeric /= 10;             // срез последней цифры
         i--;                   
     } 
-    return sum;            // возвращение 3й цифры
+    return sum;           
 }
 
 
