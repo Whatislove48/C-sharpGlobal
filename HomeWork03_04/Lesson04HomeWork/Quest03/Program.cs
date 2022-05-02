@@ -25,5 +25,5 @@ int[] createArray(int elements) // задаем массив
     return arr;
 }
 
-int n = 6; // колличество элементов массива.
+int n = 8; // колличество элементов массива.
 Console.WriteLine(PrintArr(createArray(n)));
